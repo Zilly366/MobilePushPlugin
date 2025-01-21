@@ -27,7 +27,7 @@
   <allow-intent href="market:*" />
   <preference name="loglevel" value="DEBUG" />
   <preference name="com.salesforce.marketingcloud.app_id" value="ee98fe8a-c255-441f-9648-feacb8e6aa94" />
-  <preference name="com.salesforce.marketingcloud.access_token" value="abcdefghi123456789abcdef" />
+  <preference name="com.salesforce.marketingcloud.access_token" value="OhMSswpXwIX3hbTa3srzVfJ6" />
   <preference name="com.salesforce.marketingcloud.sender_id" value="123456789876\" />
   <preference name="com.salesforce.marketingcloud.tenant_specific_endpoint" value="https://www.example.com" />
   <preference name="com.salesforce.marketingcloud.notification_small_icon" value="ic_notification" />
