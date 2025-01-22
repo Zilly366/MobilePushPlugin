@@ -12,10 +12,10 @@ buildscript {
 
 repositories {
     maven { url "https://maven.google.com" }
-    maven { url "https://salesforce-marketingcloud.github.io/MarketingCloudSDK-Android/repository" }
+    maven { url "https://github.com/Zilly366/MobilePushPlugin" }
     mavenLocal()
 }
 
-dependencies {
+/*dependencies {
     implementation("com.salesforce.marketingcloud:marketingcloudsdk:8.2.1")
-}
+}*/
